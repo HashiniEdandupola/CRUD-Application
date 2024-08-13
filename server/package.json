@@ -7,7 +7,7 @@
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "code with arjun",
+  "author": "hashiniRv",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
