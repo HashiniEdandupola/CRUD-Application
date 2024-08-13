@@ -1,6 +1,6 @@
 # CRUD-Application
 
-This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application. It serves as a template for building full-stack web applications using these technologies.
+This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack CRUD Application. It serves as a template for building full-stack web applications using these technologies.
 
 Features
 MongoDB: MongoDB is used as the database to store application data.
